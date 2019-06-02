@@ -1,3 +1,137 @@
 .container {
     width: 400px;
+    background-color: #fff;
+}
+
+.fontcolor1 {
+    color: #7f8a94;
+    font-size: 1.5rem;
+}
+
+.fontcolor2 {
+    color: #98b4d9;
+}
+
+.fontcolor3 {
+    color: #42f4a1;
+    font-size: 1.5rem;
+}
+
+.fontcolor4 {
+    color: lightblue;
+    font-size: 1.5rem;
+}
+
+.fontcolor5 {
+    color: indianred;
+    font-size: 1.5rem;
+}
+
+.bckgrnd {
+    background-color: lightgrey;
+}
+
+.btn1 {
+    background-color: #35c3d6;
+    -moz-border-radius: 28px;
+    -webkit-border-radius: 28px;
+    border-radius: 28px;
+    border: 1px solid #35c3d6;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Verdana;
+    font-size: 12px;
+    padding: 7px 25px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #000000;
+}
+
+.btn1:hover {
+    background-color: #35c3d6;
+    text-decoration: none;
+}
+
+.btn1:active {
+    position: relative;
+    top: 1px;
+}
+
+.btn2 {
+    background-color: #e7505a;
+    -moz-border-radius: 28px;
+    -webkit-border-radius: 28px;
+    border-radius: 28px;
+    border: 1px solid #e7505a;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Verdana;
+    font-size: 12px;
+    padding: 7px 25px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #000000;
+}
+
+.btn2:hover {
+    background-color: #e7505a;
+    text-decoration: none;
+}
+
+.btn2:active {
+    position: relative;
+    top: 1px;
+}
+
+.btn3 {
+    background-color: #42f4a1;
+    -moz-border-radius: 28px;
+    -webkit-border-radius: 28px;
+    border-radius: 28px;
+    border: 1px solid #42f4a1;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Verdana;
+    font-size: 12px;
+    padding: 7px 25px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #000000;
+}
+
+.btn3:hover {
+    background-color: #42f4a1;
+    text-decoration: none;
+}
+
+.btn3:active {
+    position: relative;
+    top: 1px;
+}
+
+.btn4 {
+    background-color: #e7505a;
+    -moz-border-radius: 28px;
+    -webkit-border-radius: 28px;
+    border-radius: 28px;
+    background-color: #e7505a;
+    border: 1px solid;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Verdana;
+    font-size: 12px;
+    padding: 7px 25px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #000000;
+}
+
+.btn4:hover {
+    background-color: #e7505a;
+    text-decoration: none;
+}
+
+.btn4:active {
+    position: relative;
+    top: 1px;
 }
