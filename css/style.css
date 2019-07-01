@@ -145,3 +145,20 @@
     justify-content: center;
     align-items: center;
 }
+
+select {
+    background-color: #35c3d6;
+    width: 52px;
+}
+
+select option[value="1"] {
+    background-color: #f00;
+}
+
+select option[value="2"] {
+    background-color: #0f0;
+}
+
+select option[value="3"] {
+    background-color: #00f;
+}
